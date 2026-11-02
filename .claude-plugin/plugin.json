@@ -1,0 +1,8 @@
+{
+  "name": "cuedstart",
+  "version": "1.1.0",
+  "description": "Playbook perilaku AI agent: satu agent, delapan peran (Analis Produk, Arsitek, UI/UX, Senior Engineer, Reviewer, Security, QA/Release, Profesor/Mentor) dengan alur SDLC bergerbang. 20 skills berbahasa Indonesia.",
+  "author": { "name": "Sued" },
+  "license": "MIT",
+  "keywords": ["agent-skills", "senior-engineer", "ui-ux", "sdlc", "prd", "mentor", "indonesia", "antigravity"]
+}

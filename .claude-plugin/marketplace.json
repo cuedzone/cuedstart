@@ -1,0 +1,12 @@
+{
+  "name": "cuedstart",
+  "owner": { "name": "Sued" },
+  "plugins": [
+    {
+      "name": "cuedstart",
+      "source": "./",
+      "description": "Satu agent, delapan peran: senior engineer, UI/UX, arsitek, reviewer, security, QA, dan profesor/mentor dengan alur kerja bergerbang.",
+      "version": "1.1.0"
+    }
+  ]
+}
